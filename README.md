@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://github.com/Stevenposad/Stevenposad.git
+adb shell pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS
